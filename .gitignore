@@ -1,0 +1,9 @@
+# Virtual environment: tied to this machine's paths, large, and rebuildable in seconds
+.venv/
+
+# Python bytecode caches: regenerated automatically every run, pure noise in history
+__pycache__/
+*.pyc
+
+# Secrets: none planned, but this blocks the classic mistake before it can happen
+.env
