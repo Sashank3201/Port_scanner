@@ -2,7 +2,7 @@
 
 A port scanner and subdomain enumerator written in Python (standard library only), built step by step as a learning project: Beginner project 01 of my cybersecurity roadmap.
 
-**Status:** Phase 0 of 8 (setup and scope). No scanner code yet. The full plan is in `port-scanner-learning-path.md`.
+**Status:** Phase 0 of 8 (setup and scope). No scanner code yet.
 
 ## Scope and authorization
 
@@ -36,4 +36,3 @@ Needs Python 3.10 or newer. nmap is used only for comparison.
 
 - `baseline.txt`: nmap's results for scanme.nmap.org, made with `nmap -sT --reason -oN baseline.txt scanme.nmap.org`. It's the answer key my scanner is checked against.
 - `LEARNING.md`: what I learned in each phase, in my own words.
-- `port-scanner-learning-path.md`: the phase-by-phase plan.

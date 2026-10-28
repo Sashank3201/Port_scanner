@@ -7,3 +7,5 @@ __pycache__/
 
 # Secrets: none planned, but this blocks the classic mistake before it can happen
 .env
+# Learning roadmap: kept locally, not part of the published project
+port-scanner-learning-path.md
